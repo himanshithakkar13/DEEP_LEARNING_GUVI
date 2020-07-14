@@ -1,3 +1,3 @@
-# DEEP_LEARNING_GUVI
+# Machine_learning_and_deep_learning_AlgorithmsFromscratch
 
-This repository contains codes of machine learning algorithm from scratch.
+This repository contains codes of machine learning algorithms from scratch.
